@@ -11,5 +11,7 @@ public class HelloWorld {
 		System.out.println("something wrong with pulling");
 		System.out.println("try without branch");
 		System.out.println("it seems working fine");
+		
+		System.out.println("ouput : " + 1);
 	}
 }
