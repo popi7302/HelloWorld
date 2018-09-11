@@ -13,5 +13,7 @@ public class HelloWorld {
 		System.out.println("it seems working fine");
 		
 		System.out.println("ouput : " + 1);
+		int input = 2;
+		
 	}
 }
