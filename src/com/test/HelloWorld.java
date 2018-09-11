@@ -9,5 +9,6 @@ public class HelloWorld {
 		System.out.println("This is the first branch test");
 		System.out.println("after first branch merge");
 		System.out.println("something wrong with pulling");
+		System.out.println("try without branch");
 	}
 }
