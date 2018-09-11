@@ -12,8 +12,10 @@ public class HelloWorld {
 		System.out.println("try without branch");
 		System.out.println("it seems working fine");
 		
-		System.out.println("ouput : " + 1);
+		System.out.println("ouput : ");
 		int input = 2;
+		int inputPlus = 1;
+		System.out.println(input + inputPlus);
 		
 	}
 }
